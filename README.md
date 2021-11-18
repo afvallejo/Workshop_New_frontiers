@@ -10,4 +10,7 @@ https://colab.research.google.com/github/afvallejo/Workshop_New_frontiers/blob/m
 
 # Databases for scRNAseq data
 
-1. https://www.10xgenomics.com/resources/datasets
+1. 10x genomics https://www.10xgenomics.com/resources/datasets
+2. Human cell atlas https://data.humancellatlas.org/
+3. Covid 1M cells https://www.covid19cellatlas.org/
+4. Broadinstitute https://singlecell.broadinstitute.org/single_cell
