@@ -1,5 +1,8 @@
 # Tools and notebooks used in the workshop "New frontiers in systems biology applied to infection diseases research"
 
+
+by Andres F Vallejo afvallejo@gmail.com
+
 ## Links to Google colab
 
 ### intro colab
