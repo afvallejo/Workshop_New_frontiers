@@ -33,3 +33,6 @@ Tools for cluster annotation
 1. panglaodb https://panglaodb.se/search.html
 2. EnrichR https://maayanlab.cloud/Enrichr/
 3. GeneProfiler https://biit.cs.ut.ee/gprofiler/gost
+
+Courses
+1.Sanger Analysis of single cell RNA-seq data https://www.singlecellcourse.org/
