@@ -2,7 +2,12 @@
 
 ## Links to Google colab
 
+### intro colab
+
 https://colab.research.google.com/
+
+### notebook1 run in a cellphone
+https://colab.research.google.com/github/afvallejo/Workshop_New_frontiers/blob/main/1_QC_to_Annotation_workshop_CP.ipynb
 
 Alphafold
 
