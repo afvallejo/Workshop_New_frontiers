@@ -26,4 +26,6 @@ https://colab.research.google.com/github/afvallejo/Workshop_New_frontiers/blob/m
 8. European Nucelotide Archive (ENA): https://www.ebi.ac.uk/ena/browser/home
 9. Sequence Read Archive (SRA): https://www.ncbi.nlm.nih.gov/sra
 
-
+Tools for cluster annotation
+1. panglaodb https://panglaodb.se/search.html
+2. EnrichR https://maayanlab.cloud/Enrichr/
