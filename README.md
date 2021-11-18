@@ -10,7 +10,7 @@ https://colab.research.google.com/
 
 https://colab.research.google.com/github/afvallejo/Workshop_New_frontiers/blob/main/AlphaFold2.ipynb
 
-### notebook1 run in a cellphone
+# notebook scRNA analysis 
 https://colab.research.google.com/github/afvallejo/Workshop_New_frontiers/blob/main/1_QC_to_Annotation_workshop_CP.ipynb
 
 
