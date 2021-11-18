@@ -1,8 +1,12 @@
 # Tools and notebooks used in the workshop "New frontiers in systems biology applied to infection diseases research"
 
-Link to Google colab
+## Links to Google colab
 
 https://colab.research.google.com/
+
+Alphafold
+
+https://colab.research.google.com/github/afvallejo/Workshop_New_frontiers/blob/main/AlphaFold2.ipynb
 
 # Databases for scRNAseq data
 
