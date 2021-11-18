@@ -6,9 +6,12 @@
 
 https://colab.research.google.com/
 
-###Alphafold
+### Alphafold
 
 https://colab.research.google.com/github/afvallejo/Workshop_New_frontiers/blob/main/AlphaFold2.ipynb
+
+### other tools
+https://github.com/trekhleb/machine-learning-experiments
 
 # notebook scRNA analysis 
 https://colab.research.google.com/github/afvallejo/Workshop_New_frontiers/blob/main/1_QC_to_Annotation_workshop_CP.ipynb
